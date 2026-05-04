@@ -7,7 +7,6 @@ import CardWrapper from "@/app/ui/dashboard/cards";
 import {
   RevenueChartSkeleton,
   LatestInvoicesSkeleton,
-  CardSkeleton,
   CardsSkeleton,
 } from "@/app/ui/skeletons";
 
